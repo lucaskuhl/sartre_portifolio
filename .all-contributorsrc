@@ -89,7 +89,9 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/40804626?v=4",
       "profile": "http://tamojit.wixsite.com/mrtamojit",
       "contributions": [
-        "doc"
+        "doc",
+        "code",
+        "design"
       ]
     },
     {
@@ -215,6 +217,42 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "hidayat7z",
+      "name": "Md Hidayat Rasool",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63554016?v=4",
+      "profile": "https://hidayat7z.github.io",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "SiddhantSadangi",
+      "name": "Siddhant Sadangi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41324509?v=4",
+      "profile": "https://www.linkedin.com/in/siddhantsadangi/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "vanoop729",
+      "name": "Anoop V",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59723767?v=4",
+      "profile": "https://anoopvarghese.in/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "aash1999",
+      "name": "Aakash Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39939476?v=4",
+      "profile": "https://github.com/aash1999",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
@@ -222,5 +260,6 @@
   "projectOwner": "ashutosh1919",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": true
+  "skipCi": true,
+  "commitConvention": "angular"
 }
