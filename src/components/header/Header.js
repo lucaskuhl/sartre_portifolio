@@ -35,7 +35,7 @@ class Header extends Component {
             <label className="menu-icon" htmlFor="menu-btn">
               <span className="navicon"></span>
             </label>
-            <ul className="menu" style={{ backgroundColor: theme.body }}>
+            {/* <ul className="menu" style={{ backgroundColor: theme.body }}>
               <li>
                 <NavLink
                   to="/home"
@@ -108,7 +108,7 @@ class Header extends Component {
                   Contact Me
                 </NavLink>
               </li>
-            </ul>
+            </ul> */}
           </header>
         </div>
       </Fade>

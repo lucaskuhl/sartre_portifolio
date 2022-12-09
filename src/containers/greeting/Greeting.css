@@ -53,6 +53,7 @@
 .greeting-image-div > * {
   max-width: 100%;
   height: auto;
+  padding-top: 75px;
 }
 
 /* Media Query */
@@ -62,6 +63,9 @@
   }
   .greeting-text-p {
     font-size: 20px;
+  }
+  .greeting-image-div {
+    padding-top: 0;
   }
 }
 @media (max-width: 768px) {
