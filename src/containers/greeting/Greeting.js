@@ -28,13 +28,13 @@ export default function Greeting(props) {
               </p>
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
-                <Button
+                {/* <Button
                   text="⭐ Star Me On Github"
                   newTab={true}
                   href={greeting.portfolio_repository}
                   theme={theme}
                   className="portfolio-repo-btn"
-                />
+                /> */}
               </div>
               {/* <div className="button-greeting-div">
               <Button text="Contact me" href="#contact" />
@@ -43,11 +43,13 @@ export default function Greeting(props) {
             </div>
           </div>
           <div className="greeting-image-div">
-            {/* <img
-							alt="saad sitting on table"
-							src={require("../../assests/images/feelingProud.svg")}
-						></img> */}
-            <FeelingProud theme={theme} />
+            {
+              <img
+                alt="saad sitting on table"
+                src={require("../../assests/images/sartreFoto2.jpg")}
+              ></img>
+            }
+            {/* <FeelingProud theme={theme} /> */}
           </div>
         </div>
       </div>
